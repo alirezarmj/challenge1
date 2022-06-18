@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+    color: black;
+
+}
+body{
+    background-color:lightgray;
+}
+h2{
+    text-align: center;
+    color: blueviolet;
+}
+.first_row{
+    color: black;
+    background-color: plum;
+}
+
+.third_col{
+    width: 40%;
+    border-collapse:collapse;
+    border-right: 1px solid purple;
+}
+.second_col{
+   width: 10%;
+    
+}
+.first_col{
+width: 10%;
+
+
+}
+#white_back{
+    background-color: white;
+
+
+}
+th,td{
+    border-top: 1px solid purple;
+    border-bottom: 1px solid purple; 
+    border-collapse:collapse;
+    border-right: 1px solid white;
+}
+table{
+    width: 50%;
+     margin: 0 auto;
+     
+     border: 1px solid purple;
+     border-collapse: collapse;
+ 
+ }
